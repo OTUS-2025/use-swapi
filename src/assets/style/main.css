@@ -1,9 +1,6 @@
-@import '/node_modules/@picocss/pico/css/pico.css';
-/* @import '/node_modules/@picocss/pico/css/pico.slate.css'; */
-@import '/node_modules/@picocss/pico/css/pico.sand.css';
-
-:root {
-}
+@import '@picocss/pico/css/pico.css';
+@import '@picocss/pico/css/pico.slate.css';
+/* @import '@picocss/pico/css/pico.sand.css'; */
 
 h1 {
   text-align: center;
